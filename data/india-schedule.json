@@ -1,0 +1,933 @@
+{
+  "ok": true,
+  "checkedAt": "2026-10-15T19:12:39.012Z",
+  "validThrough": "2027-03-29",
+  "items": [
+    {
+      "title": "RBI MPC policy meeting · final day",
+      "date": "2026-04-08T00:00:00+05:30",
+      "dateOnly": true,
+      "country": "INR",
+      "impact": "High",
+      "impactOrigin": "Aster classification",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=62422",
+      "source": "RBI published schedule",
+      "sourceURL": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=62422",
+      "sources": [
+        "RBI published schedule"
+      ],
+      "fetchedAt": "2026-10-15T19:12:38.835Z",
+      "stale": false,
+      "scheduleNote": "Meeting 2026-04-06 to 2026-04-08. Final scheduled meeting day; announcement time not specified in this source.",
+      "analysis": [
+        "Macro",
+        "Banks · NBFCs · Realty · Auto · Bonds",
+        "RBI rates and policy guidance affect borrowing costs, bank margins, bond yields and rate-sensitive demand."
+      ],
+      "meetingStart": "2026-04-06",
+      "meetingEnd": "2026-04-08"
+    },
+    {
+      "title": "RBI MPC policy meeting · final day",
+      "date": "2026-06-05T00:00:00+05:30",
+      "dateOnly": true,
+      "country": "INR",
+      "impact": "High",
+      "impactOrigin": "Aster classification",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=62422",
+      "source": "RBI published schedule",
+      "sourceURL": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=62422",
+      "sources": [
+        "RBI published schedule"
+      ],
+      "fetchedAt": "2026-10-15T19:12:38.835Z",
+      "stale": false,
+      "scheduleNote": "Meeting 2026-06-03 to 2026-06-05. Final scheduled meeting day; announcement time not specified in this source.",
+      "analysis": [
+        "Macro",
+        "Banks · NBFCs · Realty · Auto · Bonds",
+        "RBI rates and policy guidance affect borrowing costs, bank margins, bond yields and rate-sensitive demand."
+      ],
+      "meetingStart": "2026-06-03",
+      "meetingEnd": "2026-06-05"
+    },
+    {
+      "title": "RBI MPC policy meeting · final day",
+      "date": "2026-08-05T00:00:00+05:30",
+      "dateOnly": true,
+      "country": "INR",
+      "impact": "High",
+      "impactOrigin": "Aster classification",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=62422",
+      "source": "RBI published schedule",
+      "sourceURL": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=62422",
+      "sources": [
+        "RBI published schedule"
+      ],
+      "fetchedAt": "2026-10-15T19:12:38.835Z",
+      "stale": false,
+      "scheduleNote": "Meeting 2026-08-03 to 2026-08-05. Final scheduled meeting day; announcement time not specified in this source.",
+      "analysis": [
+        "Macro",
+        "Banks · NBFCs · Realty · Auto · Bonds",
+        "RBI rates and policy guidance affect borrowing costs, bank margins, bond yields and rate-sensitive demand."
+      ],
+      "meetingStart": "2026-08-03",
+      "meetingEnd": "2026-08-05"
+    },
+    {
+      "title": "RBI MPC policy meeting · final day",
+      "date": "2026-10-07T00:00:00+05:30",
+      "dateOnly": true,
+      "country": "INR",
+      "impact": "High",
+      "impactOrigin": "Aster classification",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=62422",
+      "source": "RBI published schedule",
+      "sourceURL": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=62422",
+      "sources": [
+        "RBI published schedule"
+      ],
+      "fetchedAt": "2026-10-15T19:12:38.835Z",
+      "stale": false,
+      "scheduleNote": "Meeting 2026-10-05 to 2026-10-07. Final scheduled meeting day; announcement time not specified in this source.",
+      "analysis": [
+        "Macro",
+        "Banks · NBFCs · Realty · Auto · Bonds",
+        "RBI rates and policy guidance affect borrowing costs, bank margins, bond yields and rate-sensitive demand."
+      ],
+      "meetingStart": "2026-10-05",
+      "meetingEnd": "2026-10-07"
+    },
+    {
+      "title": "RBI MPC policy meeting · final day",
+      "date": "2026-12-04T00:00:00+05:30",
+      "dateOnly": true,
+      "country": "INR",
+      "impact": "High",
+      "impactOrigin": "Aster classification",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=62422",
+      "source": "RBI published schedule",
+      "sourceURL": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=62422",
+      "sources": [
+        "RBI published schedule"
+      ],
+      "fetchedAt": "2026-10-15T19:12:38.835Z",
+      "stale": false,
+      "scheduleNote": "Meeting 2026-12-02 to 2026-12-04. Final scheduled meeting day; announcement time not specified in this source.",
+      "analysis": [
+        "Macro",
+        "Banks · NBFCs · Realty · Auto · Bonds",
+        "RBI rates and policy guidance affect borrowing costs, bank margins, bond yields and rate-sensitive demand."
+      ],
+      "meetingStart": "2026-12-02",
+      "meetingEnd": "2026-12-04"
+    },
+    {
+      "title": "RBI MPC policy meeting · final day",
+      "date": "2027-02-05T00:00:00+05:30",
+      "dateOnly": true,
+      "country": "INR",
+      "impact": "High",
+      "impactOrigin": "Aster classification",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=62422",
+      "source": "RBI published schedule",
+      "sourceURL": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=62422",
+      "sources": [
+        "RBI published schedule"
+      ],
+      "fetchedAt": "2026-10-15T19:12:38.835Z",
+      "stale": false,
+      "scheduleNote": "Meeting 2027-02-03 to 2027-02-05. Final scheduled meeting day; announcement time not specified in this source.",
+      "analysis": [
+        "Macro",
+        "Banks · NBFCs · Realty · Auto · Bonds",
+        "RBI rates and policy guidance affect borrowing costs, bank margins, bond yields and rate-sensitive demand."
+      ],
+      "meetingStart": "2027-02-03",
+      "meetingEnd": "2027-02-05"
+    },
+    {
+      "title": "India CPI release",
+      "date": "2026-04-13T00:00:00+05:30",
+      "dateOnly": true,
+      "country": "INR",
+      "impact": "High",
+      "impactOrigin": "Aster classification",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf",
+      "source": "MoSPI advance calendar",
+      "sourceURL": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf",
+      "sources": [
+        "MoSPI advance calendar"
+      ],
+      "fetchedAt": "2026-10-15T19:12:38.921Z",
+      "stale": false,
+      "scheduleNote": "Planned date from the official advance calendar (weekend adjusted from 2026-04-12). Public holidays or official revisions may shift it. Time not specified.",
+      "analysis": [
+        "Macro",
+        "Banks · NBFCs · Consumer stocks · Bonds",
+        "Inflation surprises can change the RBI rate outlook, bond yields and household purchasing power. Compare the actual release with expectations."
+      ],
+      "nominalDate": "2026-04-12",
+      "releaseType": "CPI"
+    },
+    {
+      "title": "India IIP release",
+      "date": "2026-04-28T00:00:00+05:30",
+      "dateOnly": true,
+      "country": "INR",
+      "impact": "High",
+      "impactOrigin": "Aster classification",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf",
+      "source": "MoSPI advance calendar",
+      "sourceURL": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf",
+      "sources": [
+        "MoSPI advance calendar"
+      ],
+      "fetchedAt": "2026-10-15T19:12:38.933Z",
+      "stale": false,
+      "scheduleNote": "Planned date from the official advance calendar. Public holidays or official revisions may shift it. Time not specified.",
+      "analysis": [
+        "Macro",
+        "Capital goods · Industrials · Metals",
+        "Industrial output indicates manufacturing and investment momentum. Check sector contributions and revisions before drawing conclusions."
+      ],
+      "nominalDate": "2026-04-28",
+      "releaseType": "IIP"
+    },
+    {
+      "title": "India CPI release",
+      "date": "2026-05-12T00:00:00+05:30",
+      "dateOnly": true,
+      "country": "INR",
+      "impact": "High",
+      "impactOrigin": "Aster classification",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf",
+      "source": "MoSPI advance calendar",
+      "sourceURL": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf",
+      "sources": [
+        "MoSPI advance calendar"
+      ],
+      "fetchedAt": "2026-10-15T19:12:38.933Z",
+      "stale": false,
+      "scheduleNote": "Planned date from the official advance calendar. Public holidays or official revisions may shift it. Time not specified.",
+      "analysis": [
+        "Macro",
+        "Banks · NBFCs · Consumer stocks · Bonds",
+        "Inflation surprises can change the RBI rate outlook, bond yields and household purchasing power. Compare the actual release with expectations."
+      ],
+      "nominalDate": "2026-05-12",
+      "releaseType": "CPI"
+    },
+    {
+      "title": "India IIP release",
+      "date": "2026-06-01T00:00:00+05:30",
+      "dateOnly": true,
+      "country": "INR",
+      "impact": "High",
+      "impactOrigin": "Aster classification",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf",
+      "source": "MoSPI advance calendar",
+      "sourceURL": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf",
+      "sources": [
+        "MoSPI advance calendar"
+      ],
+      "fetchedAt": "2026-10-15T19:12:38.933Z",
+      "stale": false,
+      "scheduleNote": "Planned date from the official advance calendar. Public holidays or official revisions may shift it. Time not specified.",
+      "analysis": [
+        "Macro",
+        "Capital goods · Industrials · Metals",
+        "Industrial output indicates manufacturing and investment momentum. Check sector contributions and revisions before drawing conclusions."
+      ],
+      "nominalDate": "2026-06-01",
+      "releaseType": "IIP"
+    },
+    {
+      "title": "India GDP release",
+      "date": "2026-06-05T00:00:00+05:30",
+      "dateOnly": true,
+      "country": "INR",
+      "impact": "High",
+      "impactOrigin": "Aster classification",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf",
+      "source": "MoSPI advance calendar",
+      "sourceURL": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf",
+      "sources": [
+        "MoSPI advance calendar"
+      ],
+      "fetchedAt": "2026-10-15T19:12:38.950Z",
+      "stale": false,
+      "scheduleNote": "Planned date from the official advance calendar. Public holidays or official revisions may shift it. Time not specified.",
+      "analysis": [
+        "Macro",
+        "Broad market · Banks · Cyclicals",
+        "Growth surprises can change earnings and policy expectations. Look at consumption, investment and revisions as well as headline growth."
+      ],
+      "nominalDate": "2026-06-05",
+      "releaseType": "GDP"
+    },
+    {
+      "title": "India CPI release",
+      "date": "2026-06-12T00:00:00+05:30",
+      "dateOnly": true,
+      "country": "INR",
+      "impact": "High",
+      "impactOrigin": "Aster classification",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf",
+      "source": "MoSPI advance calendar",
+      "sourceURL": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf",
+      "sources": [
+        "MoSPI advance calendar"
+      ],
+      "fetchedAt": "2026-10-15T19:12:38.950Z",
+      "stale": false,
+      "scheduleNote": "Planned date from the official advance calendar. Public holidays or official revisions may shift it. Time not specified.",
+      "analysis": [
+        "Macro",
+        "Banks · NBFCs · Consumer stocks · Bonds",
+        "Inflation surprises can change the RBI rate outlook, bond yields and household purchasing power. Compare the actual release with expectations."
+      ],
+      "nominalDate": "2026-06-12",
+      "releaseType": "CPI"
+    },
+    {
+      "title": "India IIP release",
+      "date": "2026-06-29T00:00:00+05:30",
+      "dateOnly": true,
+      "country": "INR",
+      "impact": "High",
+      "impactOrigin": "Aster classification",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf",
+      "source": "MoSPI advance calendar",
+      "sourceURL": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf",
+      "sources": [
+        "MoSPI advance calendar"
+      ],
+      "fetchedAt": "2026-10-15T19:12:38.950Z",
+      "stale": false,
+      "scheduleNote": "Planned date from the official advance calendar (weekend adjusted from 2026-06-28). Public holidays or official revisions may shift it. Time not specified.",
+      "analysis": [
+        "Macro",
+        "Capital goods · Industrials · Metals",
+        "Industrial output indicates manufacturing and investment momentum. Check sector contributions and revisions before drawing conclusions."
+      ],
+      "nominalDate": "2026-06-28",
+      "releaseType": "IIP"
+    },
+    {
+      "title": "India CPI release",
+      "date": "2026-07-13T00:00:00+05:30",
+      "dateOnly": true,
+      "country": "INR",
+      "impact": "High",
+      "impactOrigin": "Aster classification",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf",
+      "source": "MoSPI advance calendar",
+      "sourceURL": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf",
+      "sources": [
+        "MoSPI advance calendar"
+      ],
+      "fetchedAt": "2026-10-15T19:12:38.950Z",
+      "stale": false,
+      "scheduleNote": "Planned date from the official advance calendar (weekend adjusted from 2026-07-12). Public holidays or official revisions may shift it. Time not specified.",
+      "analysis": [
+        "Macro",
+        "Banks · NBFCs · Consumer stocks · Bonds",
+        "Inflation surprises can change the RBI rate outlook, bond yields and household purchasing power. Compare the actual release with expectations."
+      ],
+      "nominalDate": "2026-07-12",
+      "releaseType": "CPI"
+    },
+    {
+      "title": "India IIP release",
+      "date": "2026-07-28T00:00:00+05:30",
+      "dateOnly": true,
+      "country": "INR",
+      "impact": "High",
+      "impactOrigin": "Aster classification",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf",
+      "source": "MoSPI advance calendar",
+      "sourceURL": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf",
+      "sources": [
+        "MoSPI advance calendar"
+      ],
+      "fetchedAt": "2026-10-15T19:12:38.976Z",
+      "stale": false,
+      "scheduleNote": "Planned date from the official advance calendar. Public holidays or official revisions may shift it. Time not specified.",
+      "analysis": [
+        "Macro",
+        "Capital goods · Industrials · Metals",
+        "Industrial output indicates manufacturing and investment momentum. Check sector contributions and revisions before drawing conclusions."
+      ],
+      "nominalDate": "2026-07-28",
+      "releaseType": "IIP"
+    },
+    {
+      "title": "India CPI release",
+      "date": "2026-08-12T00:00:00+05:30",
+      "dateOnly": true,
+      "country": "INR",
+      "impact": "High",
+      "impactOrigin": "Aster classification",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf",
+      "source": "MoSPI advance calendar",
+      "sourceURL": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf",
+      "sources": [
+        "MoSPI advance calendar"
+      ],
+      "fetchedAt": "2026-10-15T19:12:38.976Z",
+      "stale": false,
+      "scheduleNote": "Planned date from the official advance calendar. Public holidays or official revisions may shift it. Time not specified.",
+      "analysis": [
+        "Macro",
+        "Banks · NBFCs · Consumer stocks · Bonds",
+        "Inflation surprises can change the RBI rate outlook, bond yields and household purchasing power. Compare the actual release with expectations."
+      ],
+      "nominalDate": "2026-08-12",
+      "releaseType": "CPI"
+    },
+    {
+      "title": "India IIP release",
+      "date": "2026-08-28T00:00:00+05:30",
+      "dateOnly": true,
+      "country": "INR",
+      "impact": "High",
+      "impactOrigin": "Aster classification",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf",
+      "source": "MoSPI advance calendar",
+      "sourceURL": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf",
+      "sources": [
+        "MoSPI advance calendar"
+      ],
+      "fetchedAt": "2026-10-15T19:12:38.976Z",
+      "stale": false,
+      "scheduleNote": "Planned date from the official advance calendar. Public holidays or official revisions may shift it. Time not specified.",
+      "analysis": [
+        "Macro",
+        "Capital goods · Industrials · Metals",
+        "Industrial output indicates manufacturing and investment momentum. Check sector contributions and revisions before drawing conclusions."
+      ],
+      "nominalDate": "2026-08-28",
+      "releaseType": "IIP"
+    },
+    {
+      "title": "India GDP release",
+      "date": "2026-08-31T00:00:00+05:30",
+      "dateOnly": true,
+      "country": "INR",
+      "impact": "High",
+      "impactOrigin": "Aster classification",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf",
+      "source": "MoSPI advance calendar",
+      "sourceURL": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf",
+      "sources": [
+        "MoSPI advance calendar"
+      ],
+      "fetchedAt": "2026-10-15T19:12:38.988Z",
+      "stale": false,
+      "scheduleNote": "Planned date from the official advance calendar. Public holidays or official revisions may shift it. Time not specified.",
+      "analysis": [
+        "Macro",
+        "Broad market · Banks · Cyclicals",
+        "Growth surprises can change earnings and policy expectations. Look at consumption, investment and revisions as well as headline growth."
+      ],
+      "nominalDate": "2026-08-31",
+      "releaseType": "GDP"
+    },
+    {
+      "title": "India CPI release",
+      "date": "2026-09-14T00:00:00+05:30",
+      "dateOnly": true,
+      "country": "INR",
+      "impact": "High",
+      "impactOrigin": "Aster classification",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf",
+      "source": "MoSPI advance calendar",
+      "sourceURL": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf",
+      "sources": [
+        "MoSPI advance calendar"
+      ],
+      "fetchedAt": "2026-10-15T19:12:38.988Z",
+      "stale": false,
+      "scheduleNote": "Planned date from the official advance calendar (weekend adjusted from 2026-09-12). Public holidays or official revisions may shift it. Time not specified.",
+      "analysis": [
+        "Macro",
+        "Banks · NBFCs · Consumer stocks · Bonds",
+        "Inflation surprises can change the RBI rate outlook, bond yields and household purchasing power. Compare the actual release with expectations."
+      ],
+      "nominalDate": "2026-09-12",
+      "releaseType": "CPI"
+    },
+    {
+      "title": "India IIP release",
+      "date": "2026-09-28T00:00:00+05:30",
+      "dateOnly": true,
+      "country": "INR",
+      "impact": "High",
+      "impactOrigin": "Aster classification",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf",
+      "source": "MoSPI advance calendar",
+      "sourceURL": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf",
+      "sources": [
+        "MoSPI advance calendar"
+      ],
+      "fetchedAt": "2026-10-15T19:12:38.988Z",
+      "stale": false,
+      "scheduleNote": "Planned date from the official advance calendar. Public holidays or official revisions may shift it. Time not specified.",
+      "analysis": [
+        "Macro",
+        "Capital goods · Industrials · Metals",
+        "Industrial output indicates manufacturing and investment momentum. Check sector contributions and revisions before drawing conclusions."
+      ],
+      "nominalDate": "2026-09-28",
+      "releaseType": "IIP"
+    },
+    {
+      "title": "India CPI release",
+      "date": "2026-10-12T00:00:00+05:30",
+      "dateOnly": true,
+      "country": "INR",
+      "impact": "High",
+      "impactOrigin": "Aster classification",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf",
+      "source": "MoSPI advance calendar",
+      "sourceURL": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf",
+      "sources": [
+        "MoSPI advance calendar"
+      ],
+      "fetchedAt": "2026-10-15T19:12:38.988Z",
+      "stale": false,
+      "scheduleNote": "Planned date from the official advance calendar. Public holidays or official revisions may shift it. Time not specified.",
+      "analysis": [
+        "Macro",
+        "Banks · NBFCs · Consumer stocks · Bonds",
+        "Inflation surprises can change the RBI rate outlook, bond yields and household purchasing power. Compare the actual release with expectations."
+      ],
+      "nominalDate": "2026-10-12",
+      "releaseType": "CPI"
+    },
+    {
+      "title": "India IIP release",
+      "date": "2026-10-28T00:00:00+05:30",
+      "dateOnly": true,
+      "country": "INR",
+      "impact": "High",
+      "impactOrigin": "Aster classification",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf",
+      "source": "MoSPI advance calendar",
+      "sourceURL": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf",
+      "sources": [
+        "MoSPI advance calendar"
+      ],
+      "fetchedAt": "2026-10-15T19:12:38.995Z",
+      "stale": false,
+      "scheduleNote": "Planned date from the official advance calendar. Public holidays or official revisions may shift it. Time not specified.",
+      "analysis": [
+        "Macro",
+        "Capital goods · Industrials · Metals",
+        "Industrial output indicates manufacturing and investment momentum. Check sector contributions and revisions before drawing conclusions."
+      ],
+      "nominalDate": "2026-10-28",
+      "releaseType": "IIP"
+    },
+    {
+      "title": "India CPI release",
+      "date": "2026-11-12T00:00:00+05:30",
+      "dateOnly": true,
+      "country": "INR",
+      "impact": "High",
+      "impactOrigin": "Aster classification",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf",
+      "source": "MoSPI advance calendar",
+      "sourceURL": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf",
+      "sources": [
+        "MoSPI advance calendar"
+      ],
+      "fetchedAt": "2026-10-15T19:12:38.995Z",
+      "stale": false,
+      "scheduleNote": "Planned date from the official advance calendar. Public holidays or official revisions may shift it. Time not specified.",
+      "analysis": [
+        "Macro",
+        "Banks · NBFCs · Consumer stocks · Bonds",
+        "Inflation surprises can change the RBI rate outlook, bond yields and household purchasing power. Compare the actual release with expectations."
+      ],
+      "nominalDate": "2026-11-12",
+      "releaseType": "CPI"
+    },
+    {
+      "title": "India IIP release",
+      "date": "2026-11-30T00:00:00+05:30",
+      "dateOnly": true,
+      "country": "INR",
+      "impact": "High",
+      "impactOrigin": "Aster classification",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf",
+      "source": "MoSPI advance calendar",
+      "sourceURL": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf",
+      "sources": [
+        "MoSPI advance calendar"
+      ],
+      "fetchedAt": "2026-10-15T19:12:38.996Z",
+      "stale": false,
+      "scheduleNote": "Planned date from the official advance calendar (weekend adjusted from 2026-11-28). Public holidays or official revisions may shift it. Time not specified.",
+      "analysis": [
+        "Macro",
+        "Capital goods · Industrials · Metals",
+        "Industrial output indicates manufacturing and investment momentum. Check sector contributions and revisions before drawing conclusions."
+      ],
+      "nominalDate": "2026-11-28",
+      "releaseType": "IIP"
+    },
+    {
+      "title": "India GDP release",
+      "date": "2026-11-30T00:00:00+05:30",
+      "dateOnly": true,
+      "country": "INR",
+      "impact": "High",
+      "impactOrigin": "Aster classification",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf",
+      "source": "MoSPI advance calendar",
+      "sourceURL": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf",
+      "sources": [
+        "MoSPI advance calendar"
+      ],
+      "fetchedAt": "2026-10-15T19:12:38.996Z",
+      "stale": false,
+      "scheduleNote": "Planned date from the official advance calendar. Public holidays or official revisions may shift it. Time not specified.",
+      "analysis": [
+        "Macro",
+        "Broad market · Banks · Cyclicals",
+        "Growth surprises can change earnings and policy expectations. Look at consumption, investment and revisions as well as headline growth."
+      ],
+      "nominalDate": "2026-11-30",
+      "releaseType": "GDP"
+    },
+    {
+      "title": "India CPI release",
+      "date": "2026-12-14T00:00:00+05:30",
+      "dateOnly": true,
+      "country": "INR",
+      "impact": "High",
+      "impactOrigin": "Aster classification",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf",
+      "source": "MoSPI advance calendar",
+      "sourceURL": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf",
+      "sources": [
+        "MoSPI advance calendar"
+      ],
+      "fetchedAt": "2026-10-15T19:12:38.996Z",
+      "stale": false,
+      "scheduleNote": "Planned date from the official advance calendar (weekend adjusted from 2026-12-12). Public holidays or official revisions may shift it. Time not specified.",
+      "analysis": [
+        "Macro",
+        "Banks · NBFCs · Consumer stocks · Bonds",
+        "Inflation surprises can change the RBI rate outlook, bond yields and household purchasing power. Compare the actual release with expectations."
+      ],
+      "nominalDate": "2026-12-12",
+      "releaseType": "CPI"
+    },
+    {
+      "title": "India IIP release",
+      "date": "2026-12-28T00:00:00+05:30",
+      "dateOnly": true,
+      "country": "INR",
+      "impact": "High",
+      "impactOrigin": "Aster classification",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf",
+      "source": "MoSPI advance calendar",
+      "sourceURL": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf",
+      "sources": [
+        "MoSPI advance calendar"
+      ],
+      "fetchedAt": "2026-10-15T19:12:38.996Z",
+      "stale": false,
+      "scheduleNote": "Planned date from the official advance calendar. Public holidays or official revisions may shift it. Time not specified.",
+      "analysis": [
+        "Macro",
+        "Capital goods · Industrials · Metals",
+        "Industrial output indicates manufacturing and investment momentum. Check sector contributions and revisions before drawing conclusions."
+      ],
+      "nominalDate": "2026-12-28",
+      "releaseType": "IIP"
+    },
+    {
+      "title": "India GDP release",
+      "date": "2027-01-07T00:00:00+05:30",
+      "dateOnly": true,
+      "country": "INR",
+      "impact": "High",
+      "impactOrigin": "Aster classification",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf",
+      "source": "MoSPI advance calendar",
+      "sourceURL": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf",
+      "sources": [
+        "MoSPI advance calendar"
+      ],
+      "fetchedAt": "2026-10-15T19:12:38.996Z",
+      "stale": false,
+      "scheduleNote": "Planned date from the official advance calendar. Public holidays or official revisions may shift it. Time not specified.",
+      "analysis": [
+        "Macro",
+        "Broad market · Banks · Cyclicals",
+        "Growth surprises can change earnings and policy expectations. Look at consumption, investment and revisions as well as headline growth."
+      ],
+      "nominalDate": "2027-01-07",
+      "releaseType": "GDP"
+    },
+    {
+      "title": "India CPI release",
+      "date": "2027-01-12T00:00:00+05:30",
+      "dateOnly": true,
+      "country": "INR",
+      "impact": "High",
+      "impactOrigin": "Aster classification",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf",
+      "source": "MoSPI advance calendar",
+      "sourceURL": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf",
+      "sources": [
+        "MoSPI advance calendar"
+      ],
+      "fetchedAt": "2026-10-15T19:12:39.006Z",
+      "stale": false,
+      "scheduleNote": "Planned date from the official advance calendar. Public holidays or official revisions may shift it. Time not specified.",
+      "analysis": [
+        "Macro",
+        "Banks · NBFCs · Consumer stocks · Bonds",
+        "Inflation surprises can change the RBI rate outlook, bond yields and household purchasing power. Compare the actual release with expectations."
+      ],
+      "nominalDate": "2027-01-12",
+      "releaseType": "CPI"
+    },
+    {
+      "title": "India IIP release",
+      "date": "2027-01-28T00:00:00+05:30",
+      "dateOnly": true,
+      "country": "INR",
+      "impact": "High",
+      "impactOrigin": "Aster classification",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf",
+      "source": "MoSPI advance calendar",
+      "sourceURL": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf",
+      "sources": [
+        "MoSPI advance calendar"
+      ],
+      "fetchedAt": "2026-10-15T19:12:39.006Z",
+      "stale": false,
+      "scheduleNote": "Planned date from the official advance calendar. Public holidays or official revisions may shift it. Time not specified.",
+      "analysis": [
+        "Macro",
+        "Capital goods · Industrials · Metals",
+        "Industrial output indicates manufacturing and investment momentum. Check sector contributions and revisions before drawing conclusions."
+      ],
+      "nominalDate": "2027-01-28",
+      "releaseType": "IIP"
+    },
+    {
+      "title": "India CPI release",
+      "date": "2027-02-12T00:00:00+05:30",
+      "dateOnly": true,
+      "country": "INR",
+      "impact": "High",
+      "impactOrigin": "Aster classification",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf",
+      "source": "MoSPI advance calendar",
+      "sourceURL": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf",
+      "sources": [
+        "MoSPI advance calendar"
+      ],
+      "fetchedAt": "2026-10-15T19:12:39.006Z",
+      "stale": false,
+      "scheduleNote": "Planned date from the official advance calendar. Public holidays or official revisions may shift it. Time not specified.",
+      "analysis": [
+        "Macro",
+        "Banks · NBFCs · Consumer stocks · Bonds",
+        "Inflation surprises can change the RBI rate outlook, bond yields and household purchasing power. Compare the actual release with expectations."
+      ],
+      "nominalDate": "2027-02-12",
+      "releaseType": "CPI"
+    },
+    {
+      "title": "India GDP release",
+      "date": "2027-02-26T00:00:00+05:30",
+      "dateOnly": true,
+      "country": "INR",
+      "impact": "High",
+      "impactOrigin": "Aster classification",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf",
+      "source": "MoSPI advance calendar",
+      "sourceURL": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf",
+      "sources": [
+        "MoSPI advance calendar"
+      ],
+      "fetchedAt": "2026-10-15T19:12:39.006Z",
+      "stale": false,
+      "scheduleNote": "Planned date from the official advance calendar. Public holidays or official revisions may shift it. Time not specified.",
+      "analysis": [
+        "Macro",
+        "Broad market · Banks · Cyclicals",
+        "Growth surprises can change earnings and policy expectations. Look at consumption, investment and revisions as well as headline growth."
+      ],
+      "nominalDate": "2027-02-26",
+      "releaseType": "GDP"
+    },
+    {
+      "title": "India IIP release",
+      "date": "2027-03-01T00:00:00+05:30",
+      "dateOnly": true,
+      "country": "INR",
+      "impact": "High",
+      "impactOrigin": "Aster classification",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf",
+      "source": "MoSPI advance calendar",
+      "sourceURL": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf",
+      "sources": [
+        "MoSPI advance calendar"
+      ],
+      "fetchedAt": "2026-10-15T19:12:39.006Z",
+      "stale": false,
+      "scheduleNote": "Planned date from the official advance calendar (weekend adjusted from 2027-02-28). Public holidays or official revisions may shift it. Time not specified.",
+      "analysis": [
+        "Macro",
+        "Capital goods · Industrials · Metals",
+        "Industrial output indicates manufacturing and investment momentum. Check sector contributions and revisions before drawing conclusions."
+      ],
+      "nominalDate": "2027-02-28",
+      "releaseType": "IIP"
+    },
+    {
+      "title": "India CPI release",
+      "date": "2027-03-12T00:00:00+05:30",
+      "dateOnly": true,
+      "country": "INR",
+      "impact": "High",
+      "impactOrigin": "Aster classification",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf",
+      "source": "MoSPI advance calendar",
+      "sourceURL": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf",
+      "sources": [
+        "MoSPI advance calendar"
+      ],
+      "fetchedAt": "2026-10-15T19:12:39.006Z",
+      "stale": false,
+      "scheduleNote": "Planned date from the official advance calendar. Public holidays or official revisions may shift it. Time not specified.",
+      "analysis": [
+        "Macro",
+        "Banks · NBFCs · Consumer stocks · Bonds",
+        "Inflation surprises can change the RBI rate outlook, bond yields and household purchasing power. Compare the actual release with expectations."
+      ],
+      "nominalDate": "2027-03-12",
+      "releaseType": "CPI"
+    },
+    {
+      "title": "India IIP release",
+      "date": "2027-03-29T00:00:00+05:30",
+      "dateOnly": true,
+      "country": "INR",
+      "impact": "High",
+      "impactOrigin": "Aster classification",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf",
+      "source": "MoSPI advance calendar",
+      "sourceURL": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf",
+      "sources": [
+        "MoSPI advance calendar"
+      ],
+      "fetchedAt": "2026-10-15T19:12:39.011Z",
+      "stale": false,
+      "scheduleNote": "Planned date from the official advance calendar (weekend adjusted from 2027-03-28). Public holidays or official revisions may shift it. Time not specified.",
+      "analysis": [
+        "Macro",
+        "Capital goods · Industrials · Metals",
+        "Industrial output indicates manufacturing and investment momentum. Check sector contributions and revisions before drawing conclusions."
+      ],
+      "nominalDate": "2027-03-28",
+      "releaseType": "IIP"
+    }
+  ],
+  "sources": [
+    {
+      "name": "RBI published schedule",
+      "ok": true,
+      "fetchedAt": "2026-10-15T19:12:39.013Z",
+      "url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=62422",
+      "count": 6
+    },
+    {
+      "name": "MoSPI advance calendar",
+      "ok": true,
+      "fetchedAt": "2026-10-15T19:12:39.013Z",
+      "url": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf",
+      "count": 29
+    }
+  ]
+}

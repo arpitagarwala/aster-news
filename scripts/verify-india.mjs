@@ -1,0 +1,1 @@
+import fs from 'node:fs/promises';import {collectIndianSchedule} from './india-calendar.mjs';let d=await collectIndianSchedule();await fs.writeFile('data/india-schedule.json',JSON.stringify(d,null,2));console.log(d.sources,d.items.filter(e=>e.date>='2026-10-16').map(e=>[e.date.slice(0,10),e.title,e.nominalDate]));

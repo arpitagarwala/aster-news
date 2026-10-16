@@ -1,0 +1,11 @@
+import http from 'node:http';
+import fs from 'node:fs/promises';
+import path from 'node:path';
+import {spawn} from 'node:child_process';
+const root=path.resolve('site'),port=Number(process.env.PORT||8788),intervalMinutes=Math.max(5,Number(process.env.REFRESH_MINUTES||15));
+let child=null,timer=null,closing=false,status={mode:'local',intervalMinutes,phase:'starting',lastSuccessfulAt:null,nextRefreshAt:null,error:null};
+try{status.lastSuccessfulAt=JSON.parse(await fs.readFile(path.join(root,'data/update-status.json'),'utf8')).builtAt}catch{}
+function refresh(){if(child||closing)return;status.phase='refreshing';status.error=null;console.log('Refreshing feeds automatically…');child=spawn(process.execPath,['scripts/build.mjs'],{cwd:process.cwd(),stdio:'inherit',windowsHide:true});child.on('exit',code=>{child=null;if(closing)return;status.phase=code===0?'ready':'failed';if(code===0)status.lastSuccessfulAt=new Date().toISOString();else status.error='Refresh failed; last successful edition remains available';status.nextRefreshAt=new Date(Date.now()+intervalMinutes*60000).toISOString();timer=setTimeout(refresh,intervalMinutes*60000)});child.on('error',e=>{console.error('Refresh process failed:',e.message)})}
+const server=http.createServer(async(req,res)=>{try{let u=new URL(req.url,'http://local');if(u.pathname==='/data/update-status.json'){res.writeHead(200,{'Content-Type':'application/json','Cache-Control':'no-store'});return res.end(JSON.stringify(status))}let file=path.resolve(root,'.'+(decodeURIComponent(u.pathname)==='/'?'/index.html':decodeURIComponent(u.pathname)));if(!file.startsWith(root+path.sep)){res.writeHead(403);return res.end()}let body=await fs.readFile(file);res.writeHead(200,{'Content-Type':file.endsWith('.json')?'application/json; charset=utf-8':'text/html; charset=utf-8','Cache-Control':'no-store'});res.end(body)}catch{res.writeHead(404);res.end('Not found')}});
+server.listen(port,'127.0.0.1',()=>{console.log('Local: http://127.0.0.1:'+port);console.log('Automatic feed refresh: on startup and every '+intervalMinutes+' minutes while this server runs.');refresh()});
+function shutdown(){if(closing)return;closing=true;if(timer)clearTimeout(timer);if(child)child.kill();server.close(()=>process.exit(0))}process.on('SIGINT',shutdown);process.on('SIGTERM',shutdown);
